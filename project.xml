@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="BunnyMark" package="com.example.bunnymark" version="1.0.0" company="Company Name" />
+	<app main="BunnyMark" path="Export" file="BunnyMark" />
+	
+	<window width="640" height="480" />
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	
+	<source path="Assets" />
+	<icon path="Assets/openfl.svg" />
+	
+</project>
